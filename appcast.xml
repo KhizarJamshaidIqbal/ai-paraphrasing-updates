@@ -3,15 +3,18 @@
     <channel>
         <title>AI Paraphrasing Tool</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Latest Version</title>
             <description>
                 What's New:
-                - Enhanced text processing
-                - Improved UI/UX
-                - Bug fixes and performance improvements
+                - Enhanced AI paraphrasing capabilities
+                - Improved text processing
+                - Multiple text formatting options
+                - Export to PDF, DOCX, and TXT
+                - Better UI/UX experience
+                - Performance improvements and bug fixes
             </description>
             <pubDate>Wed, 31 Oct 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.your.ai_paraphrasing_tool" 
+            <enclosure url="https://play.google.com/store/apps/details?id=com.epsoldev.aiparaphrasingtool" 
                       sparkle:version="1.0.0"
                       sparkle:os="android" />
         </item>
